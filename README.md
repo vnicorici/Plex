@@ -1,2 +1,1 @@
-# Emby
 # Plex
