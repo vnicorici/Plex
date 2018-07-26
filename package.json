@@ -1,0 +1,32 @@
+{
+  "name": "Plex",
+  "date": "2018.07.26",
+  "version": "1.0.2",
+  "description": "Plex server",
+  "author": {
+    "name": "vnicorici"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/vnicorici/Plex.git"
+  },
+  "config": {
+    "type": "app",
+    "category": "apps",
+    "backgroundColor": "#171717",
+    "name": "Plex",
+    "description": "Plex Client v2",
+    "icons": {
+      "paths": {
+        "480": "img/480/",
+        "576": "img/576/",
+        "720": "img/720/",
+        "1080": "img/1080/"
+      },
+      "states": {
+        "normal": "normal.png",
+        "active": "active.png"
+      }
+    }
+  }
+}
